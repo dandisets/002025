@@ -35,7 +35,7 @@ assetsSummary:
   - SpatialSeries
   - CompassDirection
 citation: Haesemeyer, Martin; Cutler, Bradley (2026) Behavioral Fever 20-30 C (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/002025/draft
+  0.261013.1838) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.002025/0.261013.1838
 contributor:
 - affiliation:
   - name: The Ohio State University
@@ -61,20 +61,34 @@ contributor:
   - dcite:DataCollector
   schemaKey: Person
 dateCreated: '2026-10-12T16:24:44.563933+00:00'
+datePublished: '2026-10-13T18:38:29.181982+00:00'
 description: Behavioral fever experiments after injection of PBS (Controls) and High-molecular-weight
   poly(I:C)
+doi: 10.48324/dandi.002025/0.261013.1838
 ethicsApproval: []
-id: DANDI:002025/draft
+id: DANDI:002025/0.261013.1838
 identifier: DANDI:002025
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/002025/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/002025/0.261013.1838/assets.yaml
 name: Behavioral Fever 20-30 C
+publishedBy:
+  endDate: '2026-10-13T18:38:29.181982+00:00'
+  id: urn:uuid:db80b64b-d4fb-4fd4-89a0-5596578aa711
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-13T18:38:29.181982+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:cfc6f54c-db02-42f9-a188-8822df548530
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/002025/draft
-version: draft
+url: https://dandiarchive.org/dandiset/002025/0.261013.1838
+version: 0.261013.1838
 wasGeneratedBy: []
